@@ -6,6 +6,9 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
 - Java
 - Python
 - Github
+- HTML
+- CSS
+- VS Code
 
 ## Contact me 👌
 - Through GitHub or LinkedIn
