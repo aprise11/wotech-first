@@ -8,6 +8,6 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
 - Github
 
 ## Contact me
-- Java online banking app
-- Python AI tool
-- My own social network
+- Through GitHub or LinkedIn
+- email: agnetasilta@gmail.com
+
